@@ -1,0 +1,15 @@
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.csproj.AssemblyReference.cache
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.GeneratedMSBuildEditorConfig.editorconfig
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.AssemblyInfoInputs.cache
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.AssemblyInfo.cs
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.csproj.CoreCompileInputs.cache
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\bin\Debug\net6.0\LoopCountString.exe
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\bin\Debug\net6.0\LoopCountString.deps.json
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\bin\Debug\net6.0\LoopCountString.runtimeconfig.json
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\bin\Debug\net6.0\LoopCountString.dll
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\bin\Debug\net6.0\LoopCountString.pdb
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.dll
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\refint\LoopCountString.dll
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.pdb
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\LoopCountString.genruntimeconfig.cache
+C:\ext_project\portfolio_net\LoopCountString\LoopCountString\obj\Debug\net6.0\ref\LoopCountString.dll

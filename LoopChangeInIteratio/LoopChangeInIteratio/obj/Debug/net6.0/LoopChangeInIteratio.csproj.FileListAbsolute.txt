@@ -1,0 +1,15 @@
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.csproj.AssemblyReference.cache
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.AssemblyInfoInputs.cache
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.AssemblyInfo.cs
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.csproj.CoreCompileInputs.cache
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\bin\Debug\net6.0\LoopChangeInIteratio.exe
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\bin\Debug\net6.0\LoopChangeInIteratio.deps.json
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\bin\Debug\net6.0\LoopChangeInIteratio.runtimeconfig.json
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\bin\Debug\net6.0\LoopChangeInIteratio.dll
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\bin\Debug\net6.0\LoopChangeInIteratio.pdb
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.dll
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\refint\LoopChangeInIteratio.dll
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.pdb
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\LoopChangeInIteratio.genruntimeconfig.cache
+C:\ext_project\portfolio_net\LoopChangeInIteratio\LoopChangeInIteratio\obj\Debug\net6.0\ref\LoopChangeInIteratio.dll

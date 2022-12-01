@@ -1,0 +1,57 @@
+﻿@model IEnumerable<KairosTest.Models.T_BARANG>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+    <a asp-action="Create" class="btn btn-primary px-4 py-2">Create New</a>
+</p>
+<div class="alert alert-secondary">
+    <h1>Simple Inventory List</h1>
+</div>
+<form asp-action="Index" method="POST" class="fluid-container px-2 py-2">
+    <div class="form-group row ">
+        <div class="offset-sm-7 col-sm-4">
+            <input class="form-control" name="Search" value="@ViewData["Search"]" placeholder="Find Your Data" />
+        </div>
+        <button class="btn btn-secondary col-sm-1" type="submit">Find</button>
+    </div>
+</form>
+<table class="table table-responsive table-bordered table-hovered">
+    <thead>
+        <tr>
+            <th class="text-center">
+                Kode Barang
+            </th>
+            <th class="text-center">
+                Nama Barang
+            </th>
+            <th class="text-center">
+                Jumlah Barang
+            </th>
+            <th class="text-center">Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="">
+                @Html.DisplayFor(modelItem => item.KodeBarang)
+            </td>
+            <td class="">
+                @Html.DisplayFor(modelItem => item.NamaBarang)
+            </td>
+             <td class="">
+                @Html.DisplayFor(modelItem => item.JumlahBarag)
+            </td>
+            <td class="text-center">
+                <a asp-action="Edit" class="btn btn-success px-4 py-2" asp-route-id="@item.id">Edit</a> 
+                <a asp-action="Details" class="btn btn-info px-4 py-2" asp-route-id="@item.id">Details</a> 
+                <a asp-action="Delete" class="btn btn-danger px-4 py-2" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
